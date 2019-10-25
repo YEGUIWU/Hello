@@ -47,5 +47,5 @@
 
 # 表格
 first|second|third
-one|:two:|three:
-1|2|3
+--|:--:|--:
+12|21|21
