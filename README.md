@@ -53,10 +53,10 @@ first|second|third
 ## 单行代码
 `#include <stdio.h>`
 ## 多行代码
-(```)
+```
 int main()
 {
   printf("hello world");
 }
-(```)
+```
 
