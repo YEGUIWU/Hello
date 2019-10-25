@@ -6,10 +6,10 @@
 ###### 六级标题
 
 # 字体
-**粗体**
-*斜体*
-***斜体加粗***
-~~删除线~~
+- **粗体**
+- *斜体*
+- ***斜体加粗***
+- ~~删除线~~
 
 # 引用
 >1
@@ -31,6 +31,6 @@
 ![图片](beauty.jpg)
 
 # 超链接
-## [MY_HOME](https://github.com/YEGUIWU)
-## [TEST_HTML](index.html)
-## <a href="www.baidu.com" target="666"> MY_HOME</a>
+- [MY_HOME](https://github.com/YEGUIWU)
+- [TEST_HTML](index.html)
+- <a href="www.baidu.com" target="666"> MY_HOME</a>
