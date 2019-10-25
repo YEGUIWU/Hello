@@ -48,4 +48,15 @@
 # 表格
 first|second|third
 --|:--:|--:
-12|21|21
+1|2|3
+# 代码
+##单行代码
+~#include <stdio.h>~
+##多行代码
+(```)
+int main()
+{
+  printf("hello world");
+}
+(```)
+
