@@ -51,7 +51,7 @@ first|second|third
 1|2|3
 # 代码
 ## 单行代码
-~#include <stdio.h>~
+`#include <stdio.h>`
 ## 多行代码
 (```)
 int main()
